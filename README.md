@@ -15,7 +15,7 @@ Over 8+ years of experience in Front End Development using cutting edge User Int
 ---
 
 *	Languages: `Javascript`, `Python`
-*	Front End: `Angular`, `Reactjs`, `Backbone`, `Redux`, `CSS / SCSS / LESS`, `Rxjs`
+*	Front End: `Angular`,`Typescript`, `Reactjs`, `Backbone`, `Redux`, `CSS / SCSS / LESS`, `Rxjs`
 *	Frameworks/Tools: `Maven`, `Git`, `Sourcetree`
 *	Software:  `Visual Studio Code`
 *	Databases: `MySQL, Postgresql`
